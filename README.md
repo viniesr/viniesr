@@ -58,15 +58,6 @@ Busco evoluir constantemente como desenvolvedor, com interesse em sistemas web c
 
 <img 
     align="left" 
-    alt="PHP"
-    title="PHP"
-    width="40px"
-    style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-/>
-
-<img 
-    align="left" 
     alt="React"
     title="React"
     width="40px"
