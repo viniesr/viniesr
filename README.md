@@ -2,10 +2,10 @@
 
 **`Estudante de Ciência da Computação | Desenvolvedor em formação`**
 
-Um amante da tecnologia, aprendizado e criação. Atualmente curso **Ciência da Computação na UDF**, onde venho desenvolvendo habilidades em **Python, C++, PHP e Desenvolvimento Web**.  
-Gosto de transformar ideias em código funcional, explorando desde a lógica de programação até o design e a usabilidade dos projetos.  
+Amante da tecnologia, aprendizado e criação. Atualmente curso Ciência da Computação na UDF, desenvolvendo projetos com Python, C, React, FastAPI e bancos de dados.
+Gosto de transformar ideias em código funcional, explorando desde a lógica de programação até o design e a usabilidade dos sistemas.
 
-Busco constantemente evoluir na área de **desenvolvimento de software**, com interesse em automação, inteligência artificial e sistemas completos (Front + Back-End).
+Busco evoluir constantemente como desenvolvedor, com interesse em sistemas web completos (Front + Back-End), automação e inteligência artificial.
 
 ---
 
@@ -139,12 +139,19 @@ Busco constantemente evoluir na área de **desenvolvimento de software**, com in
 ---
 
 ### ⚡ Um pouco mais sobre mim
-- 🎓 Estudante de Ciência da Computação — UDF  
-- 💻 Explorando C++, Python, PHP e desenvolvimento web  
-- 🚀 Buscando crescer como desenvolvedor e colaborar em projetos reais  
-- 🎮 Curioso por tecnologia, games e design  
+- 🎓 Estudante de Ciência da Computação — UDF (5° semestre)
+- 💻 Desenvolvendo projetos com Python, C, PHP, React e FastAPI
+- 🛠 Estudando C#, T-SQL, Angular, .NET e modelagem de banco de dados
+- 🎨 Interesse em design digital, interfaces e multimídia
+- 🚀 Curioso por tecnologia, games e novas ferramentas
 
 ---
+
+### 📂 Projetos em destaque
+- FinSys – Sistema desktop financeiro | Python, PySide6, SQLite
+- PizzaByte – Sistema web de gerenciamento de pizzaria | Python, Flask, SQLite, Bootstrap
+- CliMed – Sistema web de gestão clínica | PHP, MySQL, Bootstrap
+- UpperLife – Plataforma web de monitoramento de saúde | Python, FastAPI, React, PostgreSQL (em desenvolvimento)
 
 > _"Transformando ideias em código."_  
 > — Vinícius Ramos  
