@@ -140,8 +140,8 @@ Busco evoluir constantemente como desenvolvedor, com interesse em sistemas web c
 
 ### ⚡ Um pouco mais sobre mim
 - 🎓 Estudante de Ciência da Computação — UDF (5° semestre)
-- 💻 Desenvolvendo projetos com Python, C, PHP, React e FastAPI
-- 🛠 Estudando C#, T-SQL, Angular, .NET e modelagem de banco de dados
+- 💻 Desenvolvendo projetos com Python, Flask, C, React e FastAPI
+- 🛠 Estudando C#, T-SQL, Angular, .NET e outras tecnologias
 - 🎨 Interesse em design digital, interfaces e multimídia
 - 🚀 Curioso por tecnologia, games e novas ferramentas
 
